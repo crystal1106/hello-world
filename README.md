@@ -1,4 +1,4 @@
 # hello-world
 a repository
-# this is my description 
-# first by readme-edit
+this is my description 
+first by readme-edit
